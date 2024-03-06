@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Héctor</h1>
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
-- 🔭 I’m currently working on [React Frontend App](https://github.com/HSoriano99/proyecto5EstudioDeTatuajesREACT)
+- 🔭 I’m currently working on [Backend for a motorsport app that I'm developing](https://github.com/HSoriano99/BackEndGripBalance)
 
 - 🌱 I’m currently learning **Testing: Cypress / Jest , Languages: PHP + Laravel / Phyton**
 
