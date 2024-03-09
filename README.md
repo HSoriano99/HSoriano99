@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Backend for a motorsport app that I'm developing](https://github.com/HSoriano99/BackEndGripBalance)
 
-- 🌱 I’m currently learning **Testing: Cypress / Jest , Languages: PHP + Laravel / Phyton**
+- 🌱 I’m currently learning **Testing: Cypress / Jest , Languages: PHP + Laravel / Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HSoriano99](https://github.com/HSoriano99)
 
